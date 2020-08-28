@@ -1,0 +1,17 @@
+.AuthPage {
+    text-align: center;
+    margin: 4rem auto;
+    width: 80vw !important;
+    padding: 20px;
+    max-width: 800px;
+}
+
+.AuthPage h3 {
+    margin-bottom: 2rem;
+}
+
+.AuthPage .customInput {
+    display: block !important;
+
+    margin-bottom: 1.5rem;
+}
